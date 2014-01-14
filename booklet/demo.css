@@ -32,9 +32,10 @@
 
 body{
 	font-family: 'Open Sans Condensed','Arial Narrow', serif;
-	background-image: url(../booklet/images/final.png);
-	background-size:1400px 1050px;
-	background-repeat:no-repeat;
+	background-image: url(../booklet/images/final.png); 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
 	font-weight: 400;
 	font-size: 15px;
 	color: #333;
