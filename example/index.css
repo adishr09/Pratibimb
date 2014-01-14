@@ -10,7 +10,7 @@
              color: #34495e;
              font-family: 'Lato', 'Arial', sans-serif;
              font-weight: 400;
-             line-height: 1.2;
+             line-height: 1.0;
          }
 
          ul {
@@ -28,9 +28,9 @@
              display: inline-block;
              text-transform: uppercase;
              border: 4px double #2c3e50;
-             margin-top: 100px;
+             margin-top: 57%;
              font-size: 0.7em;
-             font-weight: 700;
+             font-weight: 900;
              padding: 0.1em 0.4em;
              text-align: center;
              -webkit-transition: color 0.3s, border-color 0.3s;
