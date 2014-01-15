@@ -32,7 +32,8 @@
 
 body{
 	font-family: 'Open Sans Condensed','Arial Narrow', serif;
-	background-image: url(../booklet/images/final.png); 
+	background-image: url(../booklet/images/final.png);
+	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
