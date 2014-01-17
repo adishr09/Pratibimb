@@ -229,3 +229,16 @@ span.sb-icon:before {
 .icon-download:before { content: '\41'; } /* 'A' */
 .icon-mobile:before { content: '\42'; } /* 'B' */
 .icon-camera:before { content: '\33'; } /* '3' */
+
+.footer {
+margin-top:-220px;
+}
+
+.footer #img_f{
+margin-left:10px;
+margin-right:20px;
+}
+
+.footer #img_y{
+margin-left:20px;
+}
